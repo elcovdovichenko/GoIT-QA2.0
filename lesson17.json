@@ -1,0 +1,66 @@
+[
+{
+	"id": "1",
+	"firstName": "John",
+	"lastName": "Higgins",
+	"city": "Wishaw, North Lanarkshire, Scotland",
+	"address": {
+		"street": "Alexander Street",
+		"houseNum": "12",
+		"apartmentNum": "56"
+	},
+	"contacts":  {
+		"tel": "+442047770077",
+		"email": "me@johnhiggins.org.uk",
+		"skype": "john.higgins.147"
+	}
+},
+{
+	"id": "2",
+	"firstName": "Ronnie",
+	"lastName": "O`Sullivan",
+	"city": "Wordsley, West Midlands, England",
+	"address": {
+		"street": "Manor Road",
+		"houseNum": "93",
+		"apartmentNum": "5"
+	},
+	"contacts":  {
+		"tel": "+443179060876",
+		"email": "ronnie@osullivan.org.uk",
+		"skype": "rocket.sullivan.uk"
+	}
+},
+{
+	"id": "3",
+	"firstName": "Luca",
+	"lastName": "Brecel",
+	"city": " Dilsen-Stokkem, Belgium",
+	"address": {
+		"street": "Lanklaar",
+		"houseNum": "45",
+		"apartmentNum": "76"
+	},
+	"contacts":  {
+		"tel": "32480544127",
+		"email": "office@lucabrecel.org.be",
+		"skype": "lucabrecel.147"
+	}
+},
+{
+	"id": "4",
+	"firstName": "Judd",
+	"lastName": "Trump",
+	"city": "Whitchurch, Bristol, England",
+	"address": {
+		"street": "Courtenay Road",
+		"houseNum": "45",
+		"apartmentNum": null
+	},
+	"contacts":  {
+		"tel": "+444099427604",
+		"email": "judd@snookerbox.com.uk",
+		"skype": "judd147trump"
+	}
+}
+]

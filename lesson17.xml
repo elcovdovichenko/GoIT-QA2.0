@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <person>
+      <id>1</id>
+	  <firstName>John</firstName>
+      <lastName>Higgins</lastName>
+      <address>
+         <apartmentNum>56</apartmentNum>
+         <houseNum>12</houseNum>
+         <street>Alexander Street</street>
+      </address>
+      <city>Wishaw, North Lanarkshire, Scotland</city>
+      <contacts>
+         <email>me@johnhiggins.org.uk</email>
+         <skype>john.higgins.147</skype>
+         <tel>+442047770077</tel>
+      </contacts>
+   </person>
+   <person>
+      <id>2</id>
+      <firstName>Ronnie</firstName>
+      <lastName>O`Sullivan</lastName>
+      <address>
+         <apartmentNum>5</apartmentNum>
+         <houseNum>93</houseNum>
+         <street>Manor Road</street>
+      </address>
+      <city>Wordsley, West Midlands, England</city>
+      <contacts>
+         <email>ronnie@osullivan.org.uk</email>
+         <skype>rocket.sullivan.uk</skype>
+         <tel>+443179060876</tel>
+      </contacts>
+   </person>
+   <person>
+      <id>3</id>
+      <firstName>Luca</firstName>
+      <lastName>Brecel</lastName>
+      <address>
+         <apartmentNum>76</apartmentNum>
+         <houseNum>45</houseNum>
+         <street>Lanklaar</street>
+      </address>
+      <city> Dilsen-Stokkem, Belgium</city>
+      <contacts>
+         <email>office@lucabrecel.org.be</email>
+         <skype>lucabrecel.147</skype>
+         <tel>32480544127</tel>
+      </contacts>
+   </person>
+   <person>
+      <id>4</id>
+      <firstName>Judd</firstName>
+      <lastName>Trump</lastName>
+      <address>
+         <apartmentNum null="true" />
+         <houseNum>45</houseNum>
+         <street>Courtenay Road</street>
+      </address>
+      <city>Whitchurch, Bristol, England</city>
+      <contacts>
+         <email>judd@snookerbox.com.uk</email>
+         <skype>judd147trump</skype>
+         <tel>+444099427604</tel>
+      </contacts>
+   </person>
+</root>
